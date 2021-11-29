@@ -50,4 +50,4 @@ Object Oriented JavaScript Game
 ### Others
 
 - Modified Game.js so that it displays the gif at the end of the game;
-- Added the <img> tag in the index.html for the gif.
+- Added the `<img>` tag in the index.html for the gif.
