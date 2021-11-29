@@ -20,7 +20,7 @@ class Phrase {
         const liHTML = document.createElement('li');
         liHTML.classList.add('hide', 'letter', this.phrase.charAt(i));
         liHTML.textContent = this.phrase.charAt(i);
-        console.log("It's a letter");
+        // console.log("It's a letter");
         phraseUl.appendChild(liHTML);
 
         // If char is space
@@ -28,7 +28,7 @@ class Phrase {
         const liHTML = document.createElement('li');
         liHTML.classList.add('space');
         liHTML.textContent = ' ';
-        console.log("It's a space");
+        // console.log("It's a space");
         phraseUl.appendChild(liHTML);
       }
     }
