@@ -1,4 +1,4 @@
-# Phrase_Hunter
+# [Phrase_Hunter](https://stanciuvictor.github.io/Phrase_Hunter/)
 
 Object Oriented JavaScript Game
 
@@ -36,7 +36,7 @@ Object Oriented JavaScript Game
 - **checkForWin()** - Checks to see if the player has revealed all of the letters in the active phrase.
 - **gameOver()** - Displays the original start screen overlay, and depending on the outcome of the game, updates the overlay with a friendly win or loss message and a gif.
 
-## Style Changes
+<!-- ## Style Changes
 
 ### CSS
 
@@ -50,4 +50,4 @@ Object Oriented JavaScript Game
 ### Others
 
 - Modified Game.js so that it displays the gif at the end of the game;
-- Added the `<img>` tag in the index.html for the gif.
+- Added the `<img>` tag in the index.html for the gif. -->
